@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![snake gif](https://raw.githubusercontent.com/FeriCodes/FeriCodes/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FeriCodes/FeriCodes/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 <!--
 **FeriCodes/FeriCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
