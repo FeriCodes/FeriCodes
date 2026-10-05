@@ -6,11 +6,11 @@
 
 ---
 
-### Hossein Bigdeli
+### Hossein Bigdeli (Feri)
 
-I am a 23-year-old backend developer focused on building reliable web services, APIs, and automation workflows using Python. My engineering mindset is guided by continuous iteration and the Kaizen philosophy—prioritizing daily incremental improvements over sporadic intensity.
+I am a 23-year-old Python backend developer. I enjoy building practical web applications, APIs, and automation scripts that make everyday workflows simpler. I care a lot about steady progress and follow the Kaizen mindset—getting a little better at coding and problem-solving every single day.
 
-Beyond writing code, I actively invest time in mastering software architecture, acquiring English through Comprehensible Input, and analyzing tactical patterns on the chessboard. As an INTJ-T, I value structured thinking, deep work sessions accompanied by music, and learning instruments like the guitar during offline hours.
+When I am not writing code, I spend my time digging into software architecture, improving my English naturally with Comprehensible Input, and playing chess on [Chess.com](https://www.chess.com/member/Feri_Fork). I am an INTJ-T who usually codes with music on, and recently I have been learning to play the guitar.
 
 ---
 
@@ -24,6 +24,19 @@ Beyond writing code, I actively invest time in mastering software architecture, 
 | **Languages & Markup** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css" /></a> |
 | **Backend & DB** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite" /></a> |
 | **Tools & Environment** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" /></a> |
+
+</div>
+
+---
+
+<!-- CHESS SECTION -->
+<div align="center">
+
+### Chess.com Profile
+
+<a href="https://www.chess.com/member/Feri_Fork">
+  <img src="https://chess-stats.vercel.app/api?username=Feri_Fork&theme=dark" alt="Feri_Fork Chess Stats" />
+</a>
 
 </div>
 
