@@ -6,36 +6,49 @@
 
 ---
 
-### 👋 Hi there, I'm Hossein (Feri)
+### Hossein Bigdeli
 
-A 23-year-old Python developer passionate about backend development, intelligent automation, and software architecture. I focus on writing modular, clean, and well-structured code.
+I am a 23-year-old backend developer focused on building reliable web services, APIs, and automation workflows using Python. My engineering mindset is guided by continuous iteration and the Kaizen philosophy—prioritizing daily incremental improvements over sporadic intensity.
 
-- 🔭 **Current Focus:** Building advanced Python applications and mastering backend systems.
-- 🌱 **Learning & Growth:** Constantly improving code quality, learning software architecture, and improving English communication.
-- 🤝 **Collaboration:** Looking to collaborate on open-source Python projects and automation tools.
-- 💬 **Let's Talk About:** Python basics, Object-Oriented Programming (OOP), or chess strategies.
-- 📫 **Reach Me:** Feel free to drop an email at [hosseinbigdeli335@gmail.com](mailto:hosseinbigdeli335@gmail.com)
-
-⚡ **Fun Fact:** An INTJ-T who codes while listening to music 🎧 ♟️
+Beyond writing code, I actively invest time in mastering software architecture, acquiring English through Comprehensible Input, and analyzing tactical patterns on the chessboard. As an INTJ-T, I value structured thinking, deep work sessions accompanied by music, and learning instruments like the guitar during offline hours.
 
 ---
 
+<!-- TECH STACK TABLE -->
 <div align="center">
 
-### 📊 GitHub Analytics
+### Tech Stack & Toolbox
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=FeriCodes&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height="170" />
+| Category | Technologies / Tools |
+| :---: | :--- |
+| **Languages & Markup** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css" /></a> |
+| **Backend & DB** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,postgres,sqlite" /></a> |
+| **Tools & Environment** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" /></a> |
 
-<br><br>
+</div>
 
-<!-- GitHub General Stats -->
-<img src="https://github-stats-extended.vercel.app/api?username=FeriCodes&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+---
 
-<br><br>
+<!-- COMPACT ANALYTICS GRID -->
+<div align="center">
+
+### GitHub Activity & Analytics
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=FeriCodes&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height="175" />
+    </td>
+    <td align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=FeriCodes&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriCodes&bg_color=1E112A&color=D484FF&line=A020F0&point=FFFFFF&area=true&hide_border=true" width="85%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriCodes&bg_color=1E112A&color=D484FF&line=A020F0&point=FFFFFF&area=true&hide_border=true" width="90%" />
 
 <br><br>
 
