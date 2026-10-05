@@ -35,8 +35,14 @@ When I am not writing code, I spend my time digging into software architecture, 
 ### Chess.com Profile
 
 <a href="https://www.chess.com/member/Feri_Fork">
-  <img src="https://chess-stats.vercel.app/api?username=Feri_Fork&theme=dark" alt="Feri_Fork Chess Stats" />
+  <img src="https://img.shields.io/badge/Chess.com-Feri__Fork-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Profile" />
 </a>
+
+<p align="center">
+  <i>Up for a game? Tap above to challenge me.</i>
+</p>
+
+</div>
 
 </div>
 
