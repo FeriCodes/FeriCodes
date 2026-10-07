@@ -10,7 +10,7 @@
 
 I am a 23-year-old Python backend developer. I enjoy building practical web applications, APIs, and automation scripts that make everyday workflows simpler. I care a lot about steady progress and follow the Kaizen mindset—getting a little better at coding and problem-solving every single day.
 
-When I am not writing code, I spend my time digging into software architecture, improving my English naturally with Comprehensible Input, and playing chess on [Chess.com](https://www.chess.com/member/Feri_Fork). I am an INTJ-T who usually codes with music on, and recently I have been learning to play the guitar.
+When I am not writing code, I spend my time digging into software architecture, improving my English naturally with Comprehensible Input, and playing chess. I am an INTJ-T who usually codes with music on, and recently I have been learning to play the guitar.
 
 ---
 
